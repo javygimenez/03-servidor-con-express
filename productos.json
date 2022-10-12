@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Lavandina",
+    "price": "100",
+    "thumbnail": "img del producto",
+    "id": 1
+  },
+  {
+    "title": "Detergente",
+    "price": "100",
+    "thumbnail": "img del producto",
+    "id": 2
+  },
+  {
+    "title": "Jabon",
+    "price": "100",
+    "thumbnail": "img del producto",
+    "id": 3
+  }  
+]
